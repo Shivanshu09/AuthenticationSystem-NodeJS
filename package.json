@@ -10,10 +10,6 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shivanshu09/Aakarshan.git"
-  },
   "author": "Shivanshu",
   "license": "ISC",
   "dependencies": {
@@ -25,11 +21,7 @@
     "mongoose": "^5.11.11",
     "validator": "^13.5.2"
   },
-  "bugs": {
-    "url": "https://github.com/Shivanshu09/Aakarshan/issues"
-  },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  },
-  "homepage": "https://github.com/Shivanshu09/Aakarshan#readme"
+  }
 }
